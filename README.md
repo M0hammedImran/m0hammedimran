@@ -11,4 +11,4 @@ I'm a Web Developer. I've worked on a few static web-pages using [React](https:/
 - 💬 Ask me about Web Development.
 - 📫 How to reach me: mohammedimran86992@gmail.com or Instagram [@m0hd_imran](https://www.instagram.com/m0hd_imran/).
 - 😄 Pronouns: Him/He.
-- ⚡ Fun fact: I like to run and do stand-up as a hobby. I also collect old currency also know as Numismatics. 
+- ⚡ Fun fact: I like to run and do stand-up, as a hobby I collect old currency also known as [Numismatics](https://www.google.com/search?q=numismatics). 
