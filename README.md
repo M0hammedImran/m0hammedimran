@@ -8,7 +8,7 @@ I'm a Web Developer. I've worked on a few static web-pages using [React](https:/
 Recently I built a Covid19-tracker (like everyone else) and it was for [Karnataka, India](https://www.google.com/search?hl=en&q=karnataka%20india).
 
 - 🔭 I’m currently working on a Personal Website and building a portfolio.
-- 🌱 I’m currently learning TypeScript and Deno.
+- 🌱 I’m currently learning TypeScript.
 - 💬 Ask me about Web Development.
 - 📫 How to reach me: mohammedimran86992@gmail.com or Instagram [@m0hd_imran](https://www.instagram.com/m0hd_imran/).
 - 😄 Pronouns: Him/He.
