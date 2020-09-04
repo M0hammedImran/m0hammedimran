@@ -25,4 +25,5 @@ Recently I built a Covid19-tracker (like everyone else) and it was for [Karnatak
 
 # GitHub Stats
 
-[![Imran's github stats](https://github-readme-stats.vercel.app/api?username=m0hammedimran&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Imran's github stats](https://github-readme-stats.vercel.app/api?username=m0hammedimran&theme=chartreuse-dark&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hammedimran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
