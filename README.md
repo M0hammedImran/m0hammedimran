@@ -17,7 +17,7 @@ Recently I built a Covid19-tracker (like everyone else) and it was for [Karnatak
 
 <p align='center'>
 <a href="https://twitter.com/md_imran_1999"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/m0hammedimran"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/m0hammedimran"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>&nbsp;&nbsp;
 </p>
 
 
