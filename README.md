@@ -16,7 +16,7 @@ Recently I built a Covid19-tracker (like everyone else) and it was for [Karnatak
 - :heart: Travelling + food + anime.
 
 <p align='center'>
-<a href="https://twitter.com/md_imran_1999"><img height="30" src="https://github.com/M0hammedImran/personal-website/blob/master/src/assets/svg_icons/Twitter_icon.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/m0hammed_imran"><img height="30" src="https://github.com/M0hammedImran/personal-website/blob/master/src/assets/svg_icons/Twitter_icon.svg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/m0hammedimran"><img height="30" src="https://github.com/M0hammedImran/personal-website/blob/master/src/assets/svg_icons/Instagram_icon.svg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
