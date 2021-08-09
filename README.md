@@ -9,7 +9,7 @@ I'm a Full-Stack Engineer and Product Developer at [Protoezy](https://protoezy.c
 - 🔭 I’m currently working on a Personal Website and building a portfolio.
 - 🌱 I’m currently learning GraphQL.
 - 💬 Ask me about NextJS.
-- 📫 How to reach me: mohammedimran86992@gmail.com.
+- 📫 How to reach me: [@m0hammed_imran](https://twitter.com/m0hammed_imran).
 - 😄 Pronouns: Him/He.
 - ⚡ Fun fact: I like to run and as a hobby I collect old currency also known as [Numismatics](https://www.google.com/search?q=numismatics). 
 - :heart: Travelling + food + anime.
