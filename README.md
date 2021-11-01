@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 I'm a Full-Stack Engineer and Product Developer at [Protoezy](https://protoezy.com). 
 
 - 🔭 I’m currently working on a Personal Website and building a portfolio.
-- 🌱 I’m currently learning GraphQL.
+- 🌱 I’m currently learning GO.
 - 💬 Ask me about NextJS.
 - 📫 How to reach me: [@m0hammed_imran](https://twitter.com/m0hammed_imran).
 - 😄 Pronouns: Him/He.
