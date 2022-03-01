@@ -46,5 +46,5 @@ I'm a Full-Stack Engineer and Product Developer at [Protoezy](https://protoezy.c
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 # GitHub Stats
-[![Imran's github stats](https://github-readme-stats.vercel.app/api?username=m0hammedimran&theme=chartreuse-dark&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hammedimran&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Imran's github stats](https://github-readme-stats.vercel.app/api?username=m0hammedimran&theme=chartreuse-dark&show_icons=true&hide=stars)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hammedimran&layout=compact&theme=chartreuse-dark)]
