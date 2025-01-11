@@ -15,7 +15,7 @@ I'm a Senior Fullstack Developer at [Factoreal Systems](https://www.factoreal.co
 
 
 <p align='center'>
-  <a href="https://twitter.com/imran_vz"><img src="https://img.shields.io/badge/--000?style=flat-square&logo=x"/></a>
+  <a href="https://twitter.com/imran_vx"><img src="https://img.shields.io/badge/--000?style=flat-square&logo=x"/></a>
   <a href="https://instagram.com/imran.vz"><img src='https://img.shields.io/badge/-Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white'/></a>
 </p>
 
