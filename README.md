@@ -13,9 +13,10 @@ I'm a Senior Fullstack Developer at [Factoreal Systems](https://www.factoreal.co
 - ⚡ Fun fact: I like to run and as a hobby I collect old currency also known as [Numismatics](https://www.google.com/search?q=numismatics). 
 - :heart: Travelling + food + anime.
 
+
 <p align='center'>
-<a href="https://twitter.com/m0hammed_imran"><img height="30" src="https://img.shields.io/badge/-Twitter-EEE?logo=Twitter&style=for-the-badge"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/m0hammedimran"><img src='https://img.shields.io/badge/-Instagram-EEE?logo=Instagram&style=for-the-badge'/></a>
+  <a href="https://twitter.com/imran_vz"><img src="https://img.shields.io/badge/--000?style=flat-square&logo=x"/></a>
+  <a href="https://instagram.com/imran.vz"><img src='https://img.shields.io/badge/-Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white'/></a>
 </p>
 
 
