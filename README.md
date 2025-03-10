@@ -4,7 +4,7 @@
 **M0hammedImran/m0hammedimran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-I'm a Senior Fullstack Developer at [Factoreal Systems](https://www.factoreal.com).
+I'm a Senior Fullstack Developer at [Satisfilabs](https://satisfilabs.com/).
 - 🔭 I’m currently working on a Personal Website and building a portfolio.
 - 🌱 I’m currently learning GO.
 - 💬 Ask me about NextJS.
@@ -26,6 +26,7 @@ I'm a Senior Fullstack Developer at [Factoreal Systems](https://www.factoreal.co
 ![Go Lang](https://img.shields.io/badge/-Go%20Lang-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 
-# GitHub Stats
+<!-- # GitHub Stats
 ![Imran's github stats](https://github-readme-stats.vercel.app/api?username=m0hammedimran&theme=chartreuse-dark&show_icons=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hammedimran&layout=compact&theme=chartreuse-dark)
+-->
